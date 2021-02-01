@@ -1,5 +1,6 @@
 # Refridge-A-Finder
-- Created using repl.it
+- Created using repl.it 
+- https://repl.it/@AlvinLy/HackAtUCI#main.py
 - Please use your own API key from RapidAPI / Spoonacular
 ```bash
 Copy and Paste them into any code that call the API
