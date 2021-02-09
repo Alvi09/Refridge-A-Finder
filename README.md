@@ -1,4 +1,9 @@
 # Refridge-A-Finder
+
+## Installation
+``` bash
+  pip install Flask
+```
 - Created using repl.it 
 - https://repl.it/@AlvinLy/HackAtUCI#main.py
 - Please use your own API key from RapidAPI / Spoonacular
