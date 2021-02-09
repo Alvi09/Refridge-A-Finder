@@ -3,6 +3,8 @@
 ## Installation
 ``` bash
   pip install Flask
+  pip install spoonacular
+  pip install requests
 ```
 - Created using repl.it 
 - https://repl.it/@AlvinLy/HackAtUCI#main.py
