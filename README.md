@@ -8,6 +8,7 @@ https://rapidapi.com/spoonacular/api/recipe-food-nutrition
 ```
 
 ## Project Description
+- Engaged in high level discussion with a team of 3 to outline our project
 - Displayed recipies and instructions based on given ingredients
-- Implemented an API to present data onto our website and connected the backend and frontend using Python's Flask
-- Collaborated with a team of 3 for one Saturday
+- Implemented an API to present data onto our website and connected the backend to the frontend using Python's Flask
+
