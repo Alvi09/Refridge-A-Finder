@@ -7,7 +7,7 @@
   pip install requests
 ```
 - Created using repl.it https://repl.it/@AlvinLy/HackAtUCI#main.py
-- Here's our DevPost https://devpost.com/software/refridge-a-finder
+- Here's our DevPost    https://devpost.com/software/refridge-a-finder
 - Please use your own API key from RapidAPI / Spoonacular
 ```bash
 Copy and Paste them into any code that call the API
