@@ -6,8 +6,7 @@
   pip install spoonacular
   pip install requests
 ```
-- Created using repl.it 
-- https://repl.it/@AlvinLy/HackAtUCI#main.py
+- Created using repl.it https://repl.it/@AlvinLy/HackAtUCI#main.py
 - Here's our DevPost https://devpost.com/software/refridge-a-finder
 - Please use your own API key from RapidAPI / Spoonacular
 ```bash
