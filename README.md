@@ -15,7 +15,8 @@ https://rapidapi.com/spoonacular/api/recipe-food-nutrition
 ```
 
 ## Project Description
-- Engaged in high level discussion with a team of 3 to create an outline
-- Displayed recipies and instructions based on given ingredients
-- Implemented an API to present data onto our website and connected the backend to the frontend using Python's Flask
+- Displayed nutritional facts, recipes, and step-by-step instructions based on given ingredients
+- Implemented Spoonacular’s API to present data onto our website by connecting the backend to the frontend using Python’s Flask
+- Engaged in high level discussion with a team of 3 over the duration of the Hackathon
+
 
